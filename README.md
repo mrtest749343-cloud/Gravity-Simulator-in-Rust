@@ -1,3 +1,5 @@
+PS: The main.rs is in a src file
+
 # 🌌 Gravity Simulator in Rust - Week 13 Project
 
 ## Section 1: What's This All About? (And Why Rust? 🦀)
